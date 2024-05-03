@@ -1,0 +1,33 @@
+h1{
+
+    text-align: center;
+}
+h2{
+    background-color: lightblue;
+    text-align: center;
+    border: solid;
+    padding-bottom: 25px;
+    margin: 50px;
+}
+body{
+    border: 03px solid black;
+    margin: 50px;
+}
+ol{
+    margin-left: 60px;
+}
+ul{
+    margin-left: 60px;
+}
+p1{
+    margin-left: 60px;
+}
+i{
+    margin-left: 60px;
+
+}
+p3{
+    margin-left: 1000px;
+    
+}
+    
